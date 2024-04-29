@@ -1,3 +1,5 @@
 line 1
 line 2
 line 3
+line 4 add for test confilict branch feature-2
+line 5 branch feature 2
